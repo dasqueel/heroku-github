@@ -1,0 +1,22 @@
+{
+  "name": "heroku-github",
+  "version": "0.3.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dasqueel/heroku-github"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
